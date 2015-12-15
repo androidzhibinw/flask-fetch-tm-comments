@@ -1,1 +1,1 @@
-# Flask example , get tm comments if given  link of an item. 
+Flask example , get tm bad comments if given  link of an item. 
