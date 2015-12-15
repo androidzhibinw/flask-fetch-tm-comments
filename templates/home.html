@@ -1,0 +1,17 @@
+<html>
+<head>
+TM comments
+</head>
+<body>
+<form method="post" action="/">
+{% if url %}
+    <input type="text" name="url" size="100" value="{{url}}"> <input type="submit" value="Submit">
+{%else%}
+    <input type="text" name="url" size="100"> <input type="submit" value="Submit">
+{%endif%}
+</form>
+{% if comments %}
+{{comments|safe}}
+{% endif %}
+</body>
+</html>
