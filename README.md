@@ -1,2 +1,1 @@
-# flask-fetch-tm-comments
-flask-fetch-tm-comments
+# Flask example , get tm comments if given  link of an item. 
