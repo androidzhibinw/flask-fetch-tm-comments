@@ -5,4 +5,4 @@ Flask example , get tm bad comments if given  link of an item.
     virtualenv venv 
     . venv/bin/active 
     pip install Flask 
-    python app.py
+    python flask_app.py
